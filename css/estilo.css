@@ -1,0 +1,63 @@
+
+body { background: #dcdcdc;
+}
+#cambiarfondo{
+color: black;
+background: white;
+display: flex;
+height: 10%;
+border: none;
+border-radius: 10px;
+font-size: 1.2rem;
+font-weight: 500;}
+
+#cambiarfondo:hover{color: red;
+}
+
+#Servicios{
+}
+
+.titulo{
+  margin: 10px;
+  padding:10px;
+  border-style:none;
+   text-align:left;
+   background:none;
+   color: ;
+   text-align: center;
+}
+
+.Portf {
+  margin: 10px;
+   padding:10px;
+  border-style:none;
+   border-radius: 10px;
+  background:white;
+}
+
+.av{ margin: 10px;
+  padding: inherit;
+   border-style:none;
+  border-radius: 10px;
+  text-align: center;
+  background:#00913f;
+  color: white;
+}
+.lista{ list-style-type: none;
+}
+
+ .footer-top{ background:#272727;
+  color: white;
+ }
+.row2{ background:#272727;
+       color: white;
+       display: flex;
+
+}
+.container-boton{
+  display: flex;
+  justify-content: x;
+}
+.row3{ background:#272727;
+       color: white;
+}
